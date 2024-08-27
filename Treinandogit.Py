@@ -1,1 +1,1 @@
-Print ("Titulo do site")
+print("Titulo do site")
